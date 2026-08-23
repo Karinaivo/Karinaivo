@@ -1,11 +1,11 @@
 # Olá, eu sou a Karina 👋
 
-<!--
+<--
 **Karinaivo/Karinaivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)  
-🔐 Objetivo de carreira: atuar com Cybersegurança  
+ Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)  
+ Objetivo de carreira: atuar com Cybersegurança  
 💻 Estudando atualmente: JavaScript e fundamentos de Segurança da Informação  
 
 ## Sobre mim
